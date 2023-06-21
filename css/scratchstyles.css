@@ -1,0 +1,72 @@
+.common{
+    text-align:center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.header{
+    height: 100px;
+    background-color: rgb(66, 205, 239);
+    color:whitesmoke;
+    line-height: 100px;
+
+}
+
+.mainbody{
+    background-color:rgb(165, 123, 204);
+    color:whitesmoke
+}
+
+.footer{
+    height: 50px;
+    background-color:black;
+    color:whitesmoke;
+    bottom: 0px;
+    right:5px;
+    left:5px;
+    font-size: 10px;
+    line-height: 25px;
+}
+
+ul{
+    text-align: left;
+    display: inline-block;
+}
+
+ol{
+    text-align: left;
+    display: inline-block;
+}
+
+nav{
+    background-color: rgb(10, 6, 0);
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a{
+    float:none;
+    color:rgb(159, 172, 174);
+    padding: 10px 13px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    background-color:darkcyan;
+}
+
+.tableauPlaceholder{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%
+}
+
+#spotify{
+    color:black;
+    font-style: italic;
+}
+
+h3{
+    text-decoration: underline;
+}
